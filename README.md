@@ -1,5 +1,5 @@
 Rastgele Deprem Analizi Simülasyonu
-Bu R kodu, rastgele deprem verileri oluşturur ve bu veriler üzerinde bir analiz gerçekleştirir. Kod, belirli bir zaman aralığında belirli bir adımda deprem oluşumlarını izler ve bu depremlerin bölgesel dağılımını analiz eder. Sonuç olarak, bir deprem analizi matrisi oluşturur ve bu matrisi ısı haritası olarak görselleştirir.
+Bu R kodu, rastgele deprem verileri oluşturur ve bu veriler üzerinde bir analiz gerçekleştirir. Kod Markov zinciri oluşturmaya basit bir bakış sergilemek için hazırlanmıştır. Kod, belirli bir zaman aralığında belirli bir adımda deprem oluşumlarını izler ve bu depremlerin bölgesel dağılımını analiz eder. Sonuç olarak, bir deprem analizi matrisi oluşturur ve bu matrisi ısı haritası olarak görselleştirir.
 
 Nasıl Kullanılır?
 1. Kodun Çalıştırılması: R programını çalıştırın ve kodu bir R dosyasına kopyalayın veya bir R ortamında doğrudan çalıştırın.
